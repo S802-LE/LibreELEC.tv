@@ -1,3 +1,9 @@
+# Minix X8 serie edition
+to be able to shutdown the box , you need to reflash it.
+see https://forum.libreelec.tv/thread/12155-libreelec-9-x-kodi-18-x-for-minix-x8-x8h-x8h/?pageNo=1
+for more info
+
+
 # LibreELEC
 
 LibreELEC is a 'Just enough OS' Linux distribution for running the award-winning [Kodi](https://kodi.tv) software on popular mediacentre hardware. LibreELEC is a conservative fork of the popular [OpenELEC](http://openelec.tv) project with a stronger focus on pre-release testing and post-release change management. Further information on the project can be found on the [LibreELEC website](https://libreelec.tv).
