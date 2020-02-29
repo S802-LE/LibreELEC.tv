@@ -16,9 +16,8 @@ PKG_PATCH_DIRS="$LINUX"
 
 case "$LINUX" in
   amlogic-3.10)
-    PKG_VERSION="95ba9d626c0fce672caa296f5911ab9190881642"
-    #PKG_SHA256="df34b086993fd3552efae92d84d28990a61a1ca79a8703a4b64241ab80e3b6db"
-    PKG_URL="https://github.com/datrh/linux-amlogic/archive/$PKG_VERSION.tar.gz"
+    PKG_VERSION="c6bc9e233e984966965051e036248701d87682a2"
+    PKG_URL="https://github.com/S802-LE/linux/archive/$PKG_VERSION.tar.gz"
     PKG_SOURCE_NAME="linux-$LINUX-$PKG_VERSION.tar.gz"
     PKG_DEPENDS_TARGET="$PKG_DEPENDS_TARGET aml-dtbtools:host u-boot-tools-aml:host"
     PKG_BUILD_PERF="no"

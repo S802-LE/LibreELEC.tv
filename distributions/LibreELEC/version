@@ -1,8 +1,8 @@
 # VERSION: set full version, use "devel" for development version
-  LIBREELEC_VERSION="LE9-Kodi_18.5"
+  LIBREELEC_VERSION="LE9-Kodi_18.6"
 
 # OS_VERSION: OS Version
-  OS_VERSION="9.2"
+  OS_VERSION="9.0"
 
 # ADDON_VERSION: Addon version
-  ADDON_VERSION="9.2"
+  ADDON_VERSION="9.0"
